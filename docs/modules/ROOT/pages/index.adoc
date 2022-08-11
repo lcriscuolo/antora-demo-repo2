@@ -1,0 +1,5 @@
+= Welcome to the Antora POC document
+
+This is a POC based on the Antora demo document. Louis rebuilt this with some ProcessMaker-specific content to illustrate how to personalize documentation builds.
+
+The other documentation component can be accessed using the "component selector menu" (aka "component drawer") at the bottom of the menu on the left side of the page.
